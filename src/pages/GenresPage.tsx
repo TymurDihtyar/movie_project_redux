@@ -1,7 +1,7 @@
 import {useEffect} from "react";
 import {Outlet} from "react-router-dom";
 
-import {Genres} from "../Components";
+import {Genres} from "../сomponents";
 import {useAppDispatch} from "../hooks";
 import {moviesActions} from "../redux/slices";
 

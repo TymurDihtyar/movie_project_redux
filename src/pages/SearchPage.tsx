@@ -1,6 +1,6 @@
 import {Outlet} from "react-router-dom";
 
-import {SearchForm} from "../Components";
+import {SearchForm} from "../сomponents";
 
 const SearchPage = () => {
 

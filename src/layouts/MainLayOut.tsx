@@ -1,6 +1,6 @@
 import {Outlet} from "react-router-dom";
 
-import {Header, Paginator} from "../Components";
+import {Header, Paginator} from "../сomponents";
 import {LinearProgress} from "@mui/material";
 import {useAppSelector} from "../hooks";
 import css from './pages.module.css'
